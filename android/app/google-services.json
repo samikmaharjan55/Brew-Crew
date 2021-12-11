@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558492698291",
+    "project_id": "mika-brew-crew",
+    "storage_bucket": "mika-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558492698291:android:a53f26c4837c615e1392c6",
+        "android_client_info": {
+          "package_name": "com.mika.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558492698291-evm6v0fjuj96s279t9ogto4b66epa3dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYOfk16P0Ok6CE9Dsw-QcKMM1U8Y8foA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558492698291-evm6v0fjuj96s279t9ogto4b66epa3dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
